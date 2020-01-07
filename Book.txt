@@ -6,12 +6,7 @@ List for Books:
 
 additional
 ----------
-
-<<<<<<< develop
-*JAVAFX
-Otgonnaran
-=======
 * JAVAFX
 * JasperSoft
 * SceneBuilder
->>>>>>> develop
+
