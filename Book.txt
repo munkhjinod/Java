@@ -7,6 +7,6 @@ List for Books:
 additional
 ----------
 
-*JAVAFX
-Otgonnaran
-*Yun otgonnaran be? It's book name
+* JAVAFX
+* JasperSoft
+* SceneBuilder
