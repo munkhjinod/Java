@@ -7,4 +7,6 @@ List for Books:
 additional
 ----------
 
-*JAVAFX
+* JAVAFX
+* JasperSoft
+* SceneBuilder
